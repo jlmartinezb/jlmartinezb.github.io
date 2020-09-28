@@ -1,6 +1,6 @@
 # ChatOps in the Software Life Cycle
 
-Chatops is included within the DevSevOps circuits (https://www.redhat.com/es/topics/devops/what-is-devsecops) and therefore in the software development life cycle or SDLC (Software Development Life Cycle - https://es.wikipedia.org/wiki/Systems_Development_Life_Cycle
+Chatops is included within the [DevSevOps circuits](https://www.redhat.com/es/topics/devops/what-is-devsecops) and therefore in the software development life cycle or [SDLC (Software Development Life Cycle)]https://es.wikipedia.org/wiki/Systems_Development_Life_Cycle
 
 ## What is ChatOps ?
 
@@ -26,10 +26,9 @@ All this must be accompanied by an asynchronous system of notifications, push ty
 
 Slack and RocketChat or Teams can be tools used within a chatops environment, so
 
-Slack (https://slack.com/intl/es-es/) is the solution by reference, being widely used in development teams, 
+[Slack](https://slack.com/intl/es-es/) is the solution by reference, being widely used in development teams, 
 
-Rockechat (https://rocket.chat/), direct competitor of Slack.
+[Rockechat](https://rocket.chat/), direct competitor of Slack.
 
-Teams (https://products.office.com/es-es/microsoft-teams/group-chat-software), is part of Microsoft's office365 ecosystem.
+[Teams](https://products.office.com/es-es/microsoft-teams/group-chat-software), is part of Microsoft's office365 ecosystem.
 
-Translated with www.DeepL.com/Translator (free version)
