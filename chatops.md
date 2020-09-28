@@ -1,6 +1,6 @@
 # ChatOps in the Software Life Cycle
 
-Chatops is included within the [DevSevOps circuits](https://www.redhat.com/es/topics/devops/what-is-devsecops) and therefore in the software development life cycle or [SDLC (Software Development Life Cycle)]https://es.wikipedia.org/wiki/Systems_Development_Life_Cycle
+Chatops is included within the [DevSevOps circuits](https://www.redhat.com/es/topics/devops/what-is-devsecops) and therefore in the software development life cycle or [SDLC - Software Development Life Cycle](https://es.wikipedia.org/wiki/Systems_Development_Life_Cycle)
 
 ## What is ChatOps ?
 
