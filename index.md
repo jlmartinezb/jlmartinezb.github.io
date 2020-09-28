@@ -1,5 +1,5 @@
 ### Welcome to Jose Luis Blog of Technology, Architecture and Develop
 
-Este blog se configura en una serie de articulos vinculados :
+This Blog clasify their articles into categories:
 ## Devops
-# Chatops Tools Analyze [Link to ChatOps Article](chatops.md)
+# Chatops Tools Analysis [Link to ChatOps Article](chatops.md)
